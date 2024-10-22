@@ -1,3 +1,3 @@
 print("Hello")
-
-var = 2
+if True:
+    pass
